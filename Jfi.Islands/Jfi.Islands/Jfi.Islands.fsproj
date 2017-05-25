@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="DiamondSquare.fs" />
+    <Compile Include="Generator.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
